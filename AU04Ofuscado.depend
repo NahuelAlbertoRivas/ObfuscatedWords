@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1704390472 source:c:\users\54113\desktop\ofus\examen.c
+	"examen.h"
+
+1704390472 c:\users\54113\desktop\ofus\examen.h
+	"VectorChar.h"
+
+1704390615 c:\users\54113\desktop\ofus\vectorchar.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1704390494 source:c:\users\54113\desktop\ofus\main.c
+	"examen.h"
+
+1704390472 source:c:\users\54113\desktop\ofus\vectorchar.c
+	"VectorChar.h"
+
